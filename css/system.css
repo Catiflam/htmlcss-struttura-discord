@@ -89,3 +89,35 @@
 .bg-green {
   background-color: #228b22;
 }
+.bg-darkgray {
+  background-color: #23272a;
+}
+.bg-salmon {
+  background-color: #f08080;
+}
+.bg-teal {
+  background-color: #20b2aa;
+}
+.bg-aquamarine {
+  background-color: #7fffd4;
+}
+
+.col-70 {
+  width: 70%;
+}
+
+.col-30 {
+  width: 30%;
+}
+
+.col-25 {
+  width: 25%;
+}
+.footer-top {
+  border: 1px solid lightgray;
+}
+
+.footer-top,
+.footer-bottom {
+  padding: 2rem 0;
+}
