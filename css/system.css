@@ -1,25 +1,34 @@
-header {
-  background-color: aqua;
-  min-height: 30px;
-  padding: 10px;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  background-color: cyan;
+  min-height: 50px;
 }
 
 .container {
-  min-height: 300px;
-  background-color: blue;
-}
-
-.logo-bar {
-  background-color: orange;
-  width: 80%;
-  height: 40px;
+  max-width: 1180px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.card-1 {
-  width: 500px;
-  height: 300px;
-  margin: 15px auto;
-  background-color: pink;
+.bg-orange {
+  background-color: #daa520;
+}
+
+.flex {
+  display: flex;
+}
+.between {
+  justify-content: space-between;
+}
+
+.align {
+  align-items: center;
+}
+.bordered {
+  border: 2px dashed black;
 }
