@@ -44,3 +44,12 @@
   background-color: #00008b;
   min-height: 50px;
 }
+
+.bg-viola {
+  background-color: #ee82ee;
+  min-height: 50px;
+}
+.card-box > .container {
+  width: 50%;
+  min-height: 250px;
+}
