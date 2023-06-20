@@ -53,3 +53,39 @@
   width: 50%;
   min-height: 250px;
 }
+
+.bg-white {
+  background-color: white;
+}
+.first-section {
+  padding: 20px 0;
+}
+
+.big {
+  min-height: 350px;
+}
+.bigger {
+  min-height: 550px;
+}
+
+.first-block {
+  width: 60%;
+}
+
+.second-block {
+  width: 40%;
+}
+
+.bg-azure {
+  background-color: #1e90ff;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+.bg-grey {
+  background-color: #d3d3d3;
+}
+.bg-green {
+  background-color: #228b22;
+}
